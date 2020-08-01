@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZendeskAPIDemo2", "ZendeskAPIDemo2\ZendeskAPIDemo2.csproj", "{EEB3AB11-F7C7-4997-92A0-30E54A0FCB9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB3AB11-F7C7-4997-92A0-30E54A0FCB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB3AB11-F7C7-4997-92A0-30E54A0FCB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB3AB11-F7C7-4997-92A0-30E54A0FCB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB3AB11-F7C7-4997-92A0-30E54A0FCB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01CC0FAF-EF7B-463F-A30C-1BB7658665DA}
+	EndGlobalSection
+EndGlobal
